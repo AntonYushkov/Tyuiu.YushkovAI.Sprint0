@@ -11,7 +11,7 @@ namespace Tyuiu.YshkovAI.Sprint0.Task2.V0.Test
             var name = "Антон";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual($"Салам..., Антон", res);
+            Assert.AreEqual($"Привет, Антон", res);
         }
     }
 }

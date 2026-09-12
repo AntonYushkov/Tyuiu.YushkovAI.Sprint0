@@ -4,7 +4,7 @@
     {
         public static string GetMessage(string name)
         {
-            return $"Салам..., {name}";
+            return $"Привет, {name}";
         }
     }
 }
