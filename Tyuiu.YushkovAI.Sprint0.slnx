@@ -15,4 +15,5 @@
     <Project Path="Tyuiu.YshkovAI.Sprint0.Task3.V0.Test/Tyuiu.YshkovAI.Sprint0.Task3.V0.Test.csproj" Id="bf0d58e9-336a-4e91-80d2-c744f8ab6c61" />
     <Project Path="Tyuiu.YshkovAI.Sprint0.Task3.V0/Tyuiu.YshkovAI.Sprint0.Task3.V0.csproj" Id="f1fca291-f73c-4524-b46a-252bcb95da28" />
   </Folder>
+  <Folder Name="/Task4/" />
 </Solution>
