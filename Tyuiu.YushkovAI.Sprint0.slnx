@@ -1,4 +1,4 @@
-﻿<Solution>
+<Solution>
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.YushkovAI.Sprint0.Task0.V0/Tyuiu.YushkovAI.Sprint0.Task0.V0.csproj" />
   </Folder>
@@ -29,5 +29,11 @@
     <Project Path="Tyuiu.YushkovAI.Sprint0.Task6.V0/Tyuiu.YushkovAI.Sprint0.Task6.V0.csproj" />
     <Project Path="Tyuiu.YushkovAI.Sprint0.Task6.V0.Lib/Tyuiu.YushkovAI.Sprint0.Task6.V0.Lib.csproj" />
     <Project Path="Tyuiu.YushkovAI.Sprint0.Task6.V0.Test/Tyuiu.YushkovAI.Sprint0.Task6.V0.Test.csproj" />
-  </Folder></Solution>
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.YushkovAI.Sprint0.Task7.V0.Lib/Tyuiu.YushkovAI.Sprint0.Task7.V0.Lib.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint0.Task7.V0.Test/Tyuiu.YushkovAI.Sprint0.Task7.V0.Test.csproj" />
+    <Project Path="Tyuiu.YushkovAI.Sprint0.Task7.V0/Tyuiu.YushkovAI.Sprint0.Task7.V0.csproj" />
+  </Folder>
+</Solution>
 
