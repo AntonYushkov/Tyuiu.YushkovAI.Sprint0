@@ -16,4 +16,7 @@
     <Project Path="Tyuiu.YshkovAI.Sprint0.Task3.V0/Tyuiu.YshkovAI.Sprint0.Task3.V0.csproj" Id="f1fca291-f73c-4524-b46a-252bcb95da28" />
   </Folder>
   <Folder Name="/Task4/" />
+  <Project Path="Tyuiu.YushkovAI.Sprint0.Task4.V0.Lib/Tyuiu.YushkovAI.Sprint0.Task4.V0.Lib.csproj" />
+  <Project Path="Tyuiu.YushkovAI.Sprint0.Task4.V0.Test/Tyuiu.YushkovAI.Sprint0.Task4.V0.Test.csproj" />
+  <Project Path="Tyuiu.YushkovAI.Sprint0.Task4.V0/Tyuiu.YushkovAI.Sprint0.Task4.V0.csproj" />
 </Solution>

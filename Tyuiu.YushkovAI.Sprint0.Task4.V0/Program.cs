@@ -1,4 +1,5 @@
 using System;
+using Tyuiu.YushkovAI.Sprint0.Task4.V0.Lib;
 
 namespace Tyuiu.YushkovAI.Sprint0.Task4.V0
 {
@@ -6,7 +7,16 @@ namespace Tyuiu.YushkovAI.Sprint0.Task4.V0
     {
         static void Main(string[] args)
         {
-            // Intentionally left blank per task instructions
+            
+            Console.WriteLine(DataService.Addition(1, 5));
+            
+            Console.WriteLine(DataService.Subtraction(15, 5));
+            
+            Console.WriteLine(DataService.Multiplication(10, 10));
+            
+            Console.WriteLine(DataService.Division(5, 5));
+
+            Console.ReadKey();
         }
     }
 }

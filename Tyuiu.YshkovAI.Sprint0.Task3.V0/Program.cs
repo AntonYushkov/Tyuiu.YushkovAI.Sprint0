@@ -1,6 +1,6 @@
 ﻿using Tyuiu.YushkovAI.Sprint0.Task3.V0.Lib;
 
-namespace Tyuiu.YshkovAI.Sprint0.Task3.V0
+namespace Tyuiu.YushkovAI.Sprint0.Task3.V0
 {
     class Program
     {
