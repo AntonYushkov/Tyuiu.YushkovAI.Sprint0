@@ -1,6 +1,11 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.YushkovAI.Sprint0.Task6.V0.Lib\Tyuiu.YushkovAI.Sprint0.Task6.V0.Lib.csproj" />
+  </ItemGroup>
+
   <PropertyGroup>
+    <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
