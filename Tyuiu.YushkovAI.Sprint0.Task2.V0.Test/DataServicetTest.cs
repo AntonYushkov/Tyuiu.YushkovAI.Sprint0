@@ -1,6 +1,6 @@
-﻿using Tyuiu.YshkovAI.Sprint0.Task2.V0.Lib;
+﻿using Tyuiu.YushkovAI.Sprint0.Task2.V0.Lib;
 
-namespace Tyuiu.YshkovAI.Sprint0.Task2.V0.Test
+namespace Tyuiu.YushkovAI.Sprint0.Task2.V0.Test
 {
     [TestClass]
     public class DataServiceTest

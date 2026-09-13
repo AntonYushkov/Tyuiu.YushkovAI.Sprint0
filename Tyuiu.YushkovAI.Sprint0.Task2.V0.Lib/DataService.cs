@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.YshkovAI.Sprint0.Task2.V0.Lib
+﻿namespace Tyuiu.YushkovAI.Sprint0.Task2.V0.Lib
 {
     public class DataService
     {

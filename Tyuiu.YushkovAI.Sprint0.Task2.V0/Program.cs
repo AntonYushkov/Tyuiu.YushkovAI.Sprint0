@@ -1,5 +1,5 @@
-﻿using Tyuiu.YshkovAI.Sprint0.Task2.V0.Lib;
-namespace Tyuiu.YshkovAI.Sprint0.Task2.V0
+﻿using Tyuiu.YushkovAI.Sprint0.Task2.V0.Lib;
+namespace Tyuiu.YushkovAI.Sprint0.Task2.V0
 {
     internal class Program
     {
